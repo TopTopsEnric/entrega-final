@@ -1,15 +1,15 @@
 let dialogos=[
     {
         codigo:a,
-        ia:"",
-        1:"",
-        2:"",
-        3:"",
-        4:"",
+        ia:"Bienvenido, a que se debe esta visita",
+        1:"Donde estoy?",
+        2:"Quien eres!!!!",
+        3:"Buenas,que tal?",
+        4:"Ostia, que mal rollo",
     },
     {
         codigo:aa,
-        ia:"",
+        ia:"En la interfaz de habla con Ia, dejame adivinar te has registrado en un web extraña? ",
         1:"",
         2:"",
         3:"",
